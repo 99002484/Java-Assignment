@@ -1,17 +1,17 @@
 package com.Exceptions;
 
-public class NameEException extends Exception {
+public class NameExistsException extends Exception {
 
 	/**
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
 
-	public NameEException() {
+	public NameExistsException() {
 		// TODO Auto-generated constructor stub
 	}
 
-	public NameEException(String message) {
+	public NameExistsException(String message) {
 		super(message);
 		// TODO Auto-generated constructor stub
 	}
