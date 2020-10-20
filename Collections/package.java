@@ -7,10 +7,10 @@ public class Demo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Emp employee1 = new Emp("Pradeep","Mysore",122);
-		Emp employee2 = new Emp("Rama","Banglore",124);
-		Emp employee3 = new Emp("Ravi","Manglore",125);
-		Emp employee4 = new Emp("Raman","Mandya",126);
+		Emp employee1 = new Emp("Thrinath","Hyderabad",122);
+		Emp employee2 = new Emp("Rajat","Delhi",124);
+		Emp employee3 = new Emp("Panini","Delhi",125);
+		Emp employee4 = new Emp("Pankaj","Patna",126);
 		ArrayList<Employee> employeeList = new ArrayList<>();
 		employeeList.add(employee1);
 		employeeList.add(employee2);
